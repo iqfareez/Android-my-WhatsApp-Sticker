@@ -11,8 +11,8 @@
     <string name="add_button_content_description">Add sticker pack to WhatsApp</string>
     <!-- Title of the sticker pack list activity page in case the app contains multiple sticker packs, the singular string will be used when there is only one pack in the app -->
     <plurals name="title_activity_sticker_packs_list">
-        <item quantity="one">Sticker Pack by lempeng terbang</item>
-        <item quantity="other">Sticker Packs by lempeng terbang</item>
+        <item quantity="one">Sticker Pack by lempeng</item>
+        <item quantity="other">Sticker Packs by lempeng</item>
     </plurals>
     <!-- Title of the sticker pack page when there are multiple sticker packs in the app -->
     <string name="title_activity_sticker_pack_details_multiple_pack">Sticker details</string>
@@ -21,7 +21,7 @@
     <!-- Text of button that allows user to click to go to the webpage of the publisher -->
     <string name="view_webpage">View webpage</string>
     <!-- Text of button that allows user to click to send an email -->
-    <string name="send_email">Send email</string>
+    <string name="send_email">Contact me</string>
     <!-- Text of button that allows user to click to go to the privacy policy website -->
     <string name="privacy_policy">Privacy policy</string>
     <!-- Text of button that allows user to click to go to the license agreement website -->
