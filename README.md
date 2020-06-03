@@ -6,7 +6,7 @@
 
 ## Get started :rocket:
 
-Original remote repo [Whatsapp Sticker](https://github.com/WhatsApp/stickers)
+See original remote repo here [Whatsapp Sticker](https://github.com/WhatsApp/stickers)
 
 ## Note :bookmark_tabs:
 
