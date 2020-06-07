@@ -275,7 +275,7 @@
       "name": "Normal pack 3",
       "publisher": "lempeng terbang",
       "tray_image_file": "np3.png",
-      "image_data_version":"1",
+      "image_data_version":"2",
       "avoid_cache":false,
       "publisher_email":"foxtrotiqmal3@gmail.com",
       "publisher_website": "https://sites.google.com/view/my-wa-sticker-packs-lt",
@@ -340,6 +340,26 @@
         },
         {
           "image_file": "norm15.webp",
+          "emojis": ["👎","🙅‍♂"]
+        },
+        {
+          "image_file": "finalw-1.webp",
+          "emojis": ["👍🏻","🆗"]
+        },
+        {
+          "image_file": "finalw-2.webp",
+          "emojis": ["👎","🙅‍♂"]
+        },
+        {
+          "image_file": "finalw-3.webp",
+          "emojis": ["👍🏻","🆗"]
+        },
+        {
+          "image_file": "finalw-6.webp",
+          "emojis": ["👎","🙅‍♂"]
+        },
+        {
+          "image_file": "finalw-5.webp",
           "emojis": ["👎","🙅‍♂"]
         }
       ]
@@ -407,7 +427,7 @@
       "name": "Sayang pack",
       "publisher": "lempeng terbang",
       "tray_image_file": "cover3.png",
-      "image_data_version":"2",
+      "image_data_version":"3",
       "avoid_cache":false,
       "publisher_email":"foxtrotiqmal3@gmail.com",
       "publisher_website": "https://sites.google.com/view/my-wa-sticker-packs-lt",
@@ -416,43 +436,47 @@
       "stickers": [
         {
           "image_file": "Artboard 3.webp",
-          "emojis": ["👋","🥺"]
+          "emojis": ["😘","❤"]
         },
         {
           "image_file": "Artboard 3 copy.webp",
-          "emojis": ["👋","🥺"]
+          "emojis": ["😘","❤"]
         },
         {
           "image_file": "Artboard 16.webp",
-          "emojis": ["😡","🥺"]
+          "emojis": ["😘","❤"]
         },
         {
           "image_file": "Artboard 16 copy.webp",
-          "emojis": ["😡","🥺"]
+          "emojis": ["😘","❤"]
         },
         {
           "image_file": "Artboard 21.webp",
-          "emojis": ["👋","😊"]
+          "emojis": ["😘","❤"]
         },
         {
           "image_file": "Artboard 21 copy.webp",
-          "emojis": ["👋","😊"]
+          "emojis": ["😘","❤"]
         },
         {
           "image_file": "sayang001.webp",
-          "emojis": ["😡","🥺"]
+          "emojis": ["😘","❤"]
         },
         {
           "image_file": "sayang002.webp",
-          "emojis": ["😡","🥺"]
+          "emojis": ["😘","❤"]
         },
         {
           "image_file": "sayang111.webp",
-          "emojis": ["👋","😊"]
+          "emojis": ["😘","❤"]
         },
         {
           "image_file": "sayang212.webp",
-          "emojis": ["👋","😊"]
+          "emojis": ["😘","❤"]
+        },
+        {
+          "image_file": "finalw-4.webp",
+          "emojis": ["😘","❤"]
         }
       ]
     },
@@ -667,7 +691,7 @@
       "name": "Extra: Emoji pack",
       "publisher": "lempeng terbang",
       "tray_image_file": "COVEREMOJI.png",
-      "image_data_version":"1",
+      "image_data_version":"2",
       "avoid_cache":false,
       "publisher_email":"foxtrotiqmal3@gmail.com",
       "publisher_website": "https://sites.google.com/view/my-wa-sticker-packs-lt",
