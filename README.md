@@ -1,6 +1,7 @@
 # WhatsApp Stickers
 
 ![Works with Android](https://img.shields.io/badge/Works_with-Android-green?style=flat-square)
+![Maintenance](https://img.shields.io/maintenance/no/2020)
 
 > This repository contains the ripoff Android sample apps and API for creating third party sticker packs for WhatsApp.
 
