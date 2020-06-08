@@ -10,7 +10,7 @@
 See original remote repo here [Whatsapp Sticker](https://github.com/WhatsApp/stickers)
 
 ## App UI
-<img src="https://user-images.githubusercontent.com/60868965/84047606-0fbb7a00-a9de-11ea-819e-1447533147d8.jpg" alt="screenshot1" width="266.8" height="403.2">
+<img src="https://user-images.githubusercontent.com/60868965/84047606-0fbb7a00-a9de-11ea-819e-1447533147d8.jpg" alt="screenshot1" width="266" height="403">
 
 
 ## Note :bookmark_tabs:
