@@ -10,8 +10,9 @@
 See original remote repo here [Whatsapp Sticker](https://github.com/WhatsApp/stickers)
 
 ## App UI
-![photo_2020-06-08_23-08-38](https://user-images.githubusercontent.com/60868965/84047466-e13d9f00-a9dd-11ea-9594-e96ca9b30814.jpg)
-![photo_2020-06-08_23-08-29](https://user-images.githubusercontent.com/60868965/84047475-e3076280-a9dd-11ea-829a-adde848cf164.jpg)
+![photo_2020-06-08_23-08-38 (Small)](https://user-images.githubusercontent.com/60868965/84047606-0fbb7a00-a9de-11ea-819e-1447533147d8.jpg)
+![photo_2020-06-08_23-08-29 (Small)](https://user-images.githubusercontent.com/60868965/84047607-11853d80-a9de-11ea-8fde-76caeec5fee7.jpg)
+
 
 ## Note :bookmark_tabs:
 
