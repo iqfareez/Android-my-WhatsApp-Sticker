@@ -11,7 +11,7 @@ See original remote repo here [Whatsapp Sticker](https://github.com/WhatsApp/sti
 
 ## App UI
 ![photo_2020-06-08_23-08-38 (Small)](https://user-images.githubusercontent.com/60868965/84047606-0fbb7a00-a9de-11ea-819e-1447533147d8.jpg)
-![photo_2020-06-08_23-08-29 (Small)](https://user-images.githubusercontent.com/60868965/84047607-11853d80-a9de-11ea-8fde-76caeec5fee7.jpg =259.2x460.8)
+![photo_2020-06-08_23-08-29 (Small)](https://user-images.githubusercontent.com/60868965/84047607-11853d80-a9de-11ea-8fde-76caeec5fee7.jpg =259x460)
 
 
 ## Note :bookmark_tabs:
